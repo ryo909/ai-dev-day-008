@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-WEBHOOK="https://hook.eu1.make.com/ju8skmhvso645uktrc8a1ixahpklrg4s"
+WEBHOOK="https://hook.eu1.make.com/2kqto795b92mdbhhanpvc5oj3qqa9ku8"
 CHANNEL_ID="69a41dcf3f3b94a12104b7b4"
 VIDEO_URL="https://ryo909.github.io/ai-dev-day-008/media/demo.mp4"
 THUMB_URL="https://ryo909.github.io/ai-dev-day-008/media/cover.png"
