@@ -1,17 +1,20 @@
 {
-  "day": "Day001",
-  "title": "Tool title",
-  "description": "One-line description for this tool.",
-  "genre": "productivity",
-  "theme": "NeoLab",
-  "story_summary": "A compact tool created to reduce one repetitive task in daily work.",
-  "tool_name": "Tool title",
-  "core_action": "transform",
-  "twist": "One clear differentiator",
-  "one_sentence": "One-sentence description",
+  "day": "Day008",
+  "title": "Draft Tightener",
+  "description": "下書きを貼ると、冗長表現を減らした短文案を作る。",
+  "genre": "writing",
+  "theme": "Brutal",
+  "story_summary": "長い文章を公開前に圧縮する一手間を最小化した。",
+  "tool_name": "Draft Tightener",
+  "core_action": "rewrite",
+  "twist": "文字数の目安を表示してSNS向けの短文化を支援",
+  "one_sentence": "文章を短く整えて、投稿しやすい形に圧縮するライティングツール。",
   "keywords": [
-    "template"
+    "writing",
+    "edit",
+    "summary",
+    "copy"
   ],
-  "repo_name": "ai-dev-day-001",
-  "pages_url": "https://USERNAME.github.io/ai-dev-day-001/"
+  "repo_name": "ai-dev-day-008",
+  "pages_url": "https://ryo909.github.io/ai-dev-day-008/"
 }
