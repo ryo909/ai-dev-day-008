@@ -16,6 +16,20 @@
 
 🌐 [GitHub Pages](https://ryo909.github.io/ai-dev-day-008/)
 
+## Auto Pipeline
+
+```bash
+bash scripts/auto_pipeline.sh
+```
+
+```bash
+# payload確認のみ（Webhook送信なし）
+DRY_RUN=1 YT_DISABLED=1 bash scripts/auto_pipeline.sh
+
+# YouTubeルートもpayloadに含める
+DRY_RUN=1 YT_DISABLED=0 bash scripts/auto_pipeline.sh
+```
+
 ---
 
 Day008 / #100日開発
